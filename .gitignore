@@ -6,6 +6,13 @@ data/raw/
 data/intermediate/
 data/processed/
 notebooks/
+src/digitize_raponda/
+src/prompts/
+src/rag_version/
+src/streamlit_app/
+src/services/
+src/scripts/
+
 
 README.md
 
