@@ -1,0 +1,32 @@
+[project]
+name = "mpongwe"
+version = "0.1.0"
+description = "Discovering Mpongwe"
+readme = "README.md"
+dependencies = [
+    "tqdm >= 4.66.5",
+    "PyPDF2 == 3.0.1",
+    "streamlit == 1.39.0",
+    "ipython == 8.28.0",
+    "streamlit-pdf-viewer == 0.0.18",
+    "pdf2image == 1.17.0",
+    "anthropic == 0.36.0",
+    "jupyter == 1.1.1",
+    "transformers >= 4.51.0",
+    "sentence-transformers >= 2.7.0",
+    "faiss-cpu == 1.13.1",
+    "langdetect == 1.0.9",
+    "langgraph == 1.0.5",
+    "langchain-community == 0.4.1",
+    "langchain-ollama == 1.0.1",
+    "openai~=2.13.0",
+    "peft >= 0.10.0",
+    "bitsandbytes >= 0.43.0",
+    "datasets >= 2.20.0",
+    "sacrebleu >= 2.4.0",
+]
+
+[project.optional-dependencies]
+comet = ["unbabel-comet>=2.0.2", "pytorch-lightning<2.3.0"]
+
+requires-python = ">=3.12"

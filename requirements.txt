@@ -1,0 +1,18 @@
+# Data extraction / dictionary
+PyPDF2==3.0.1
+
+# Fine-tuning (QLoRA on NLLB-200)
+transformers>=4.40.0
+datasets
+accelerate
+peft
+bitsandbytes
+sacrebleu
+sentencepiece
+numpy
+scipy
+tqdm
+
+# Evaluation
+evaluate
+unbabel-comet ; extra == "comet"

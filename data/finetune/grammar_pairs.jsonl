@@ -1,0 +1,959 @@
+{"translation": {"mpo_Latn": "Om̂wana", "fra_Latn": "un enfant"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Om̂wana-onom̂e", "fra_Latn": "un garçon"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Oma", "fra_Latn": "quelqu’un, une personne"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Owaro owya", "fra_Latn": "une belle pirogue"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Iṉam̂a imbe", "fra_Latn": "les méchantes bêtes"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Egaraza ralye", "fra_Latn": "une caisse pleine"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Epèlè zami", "fra_Latn": "mon assiette"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Og’iwazo", "fra_Latn": "notre chef"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "ogó winó", "fra_Latn": "ce bras"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Winó e dyóna, wónó e dena", "fra_Latn": "celui-ci rit, celui-là pleure"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "yena", "fra_Latn": "vois"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Sayona", "fra_Latn": "se tuer"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Adyon’oku’wèmè", "fra_Latn": "il s’est tué"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Nó tiga ou Nó tigare", "fra_Latn": "cesse d’abord, attends un peu"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Dyena", "fra_Latn": "voir"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "My’ayeni", "fra_Latn": "j’ai vu"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Dyenaga", "fra_Latn": "voir fréquemment"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Dyenago", "fra_Latn": "être vu fréquemment"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Denainena", "fra_Latn": "pleurer continuellement"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Denalenaga", "fra_Latn": "pleurer constamment, ne faire que pleurer"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Dyenana", "fra_Latn": "se voir"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Tèndina oma", "fra_Latn": "écrire à quelqu’un"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Abendino", "fra_Latn": "on s’est fâché contre lui"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Tonda", "fra_Latn": "aimer"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Paruna", "fra_Latn": "enlever des mains"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Mógwa", "fra_Latn": "se briser, être brisé"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Bonana", "fra_Latn": "se répandre"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Kènda", "fra_Latn": "partir, marcher"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Kókóló !", "fra_Latn": "pardon"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Kwè-kwè", "fra_Latn": "assez"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Pèkèpèkè", "fra_Latn": "à perpétuité"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Rèndine rer’iyó", "fra_Latn": "écris à ton père"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "Ndó", "fra_Latn": "mais"}, "source": "grammar_example"}
+{"translation": {"mpo_Latn": "kamba", "fra_Latn": "parler"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mi kamba", "fra_Latn": "je parle"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o kamba", "fra_Latn": "tu parles"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "e kamba", "fra_Latn": "il parle"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwe kamba", "fra_Latn": "nous parlons"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwe kamba", "fra_Latn": "vous parlez"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi kamba", "fra_Latn": "ils parlent"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mi pa kamba", "fra_Latn": "je ne parle pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o pa kamba", "fra_Latn": "tu ne parles pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "e pa kamba", "fra_Latn": "il ne parle pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwe pa kamba", "fra_Latn": "nous ne parlons pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwe pa kamba", "fra_Latn": "vous ne parlez pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi pa kamba", "fra_Latn": "ils ne parlent pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myakambaga", "fra_Latn": "je parlais"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o'akambaga", "fra_Latn": "tu parlais"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "akambaga", "fra_Latn": "il parlait"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azw'akambaga", "fra_Latn": "nous parlions"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anw'akambaga", "fra_Latn": "vous parliez"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "w'akambaga", "fra_Latn": "ils parlaient"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myakambi", "fra_Latn": "j'ai parlé"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o'akambi", "fra_Latn": "tu as parlé"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "akambi", "fra_Latn": "il a parlé"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azw'akambi", "fra_Latn": "nous avons parlé"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anw'akambi", "fra_Latn": "vous avez parlé"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "w'akambi", "fra_Latn": "ils ont parlé"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mi be kamba", "fra_Latn": "je parlerai"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o be kamba", "fra_Latn": "tu parleras"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "e be kamba", "fra_Latn": "il parlera"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwe be kamba", "fra_Latn": "nous parlerons"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwe be kamba", "fra_Latn": "vous parlerez"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi be kamba", "fra_Latn": "ils parleront"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "m'be kamba", "fra_Latn": "je ne parlerai pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o'be kamba", "fra_Latn": "tu ne parleras pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "e'be kamba", "fra_Latn": "il ne parlera pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwe'be kamba", "fra_Latn": "nous ne parlerons pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwe'be kamba", "fra_Latn": "vous ne parlerez pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi'be kamba", "fra_Latn": "ils ne parleront pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mi to kamba", "fra_Latn": "si je parle"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o to kamba", "fra_Latn": "si tu parles"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "e to kamba", "fra_Latn": "s'il parle"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwe to kamba", "fra_Latn": "si nous parlons"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwe to kamba", "fra_Latn": "si vous parlez"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi to kamba", "fra_Latn": "s'ils parlent"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mi ga gambe", "fra_Latn": "que je parle"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "gamba", "fra_Latn": "que tu parles"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "e ga gambe", "fra_Latn": "qu'il parle"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwe ga gambe", "fra_Latn": "que nous parlions"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwe ga gambe", "fra_Latn": "que vous parliez"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi ga gambe", "fra_Latn": "qu'ils parlent"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "re", "fra_Latn": "être"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myare", "fra_Latn": "je suis"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o re", "fra_Latn": "tu es"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "are", "fra_Latn": "il est"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azware", "fra_Latn": "nous sommes"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anware", "fra_Latn": "vous êtes"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi re", "fra_Latn": "ils sont"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myazele", "fra_Latn": "je ne suis pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o zele", "fra_Latn": "tu n'es pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azele", "fra_Latn": "il n'est pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwazele", "fra_Latn": "nous ne sommes pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwazele", "fra_Latn": "vous n'êtes pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi zele", "fra_Latn": "ils ne sont pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myapegaga", "fra_Latn": "j'étais"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o pegaga", "fra_Latn": "tu étais"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "apegaga", "fra_Latn": "il était"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwapegaga", "fra_Latn": "nous étions"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwapegaga", "fra_Latn": "vous étiez"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wapegaga", "fra_Latn": "ils étaient"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myaduo", "fra_Latn": "j'étais"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o duo", "fra_Latn": "tu étais"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "aduo", "fra_Latn": "il était"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwaduo", "fra_Latn": "nous étions"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwaduo", "fra_Latn": "vous étiez"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "waduo", "fra_Latn": "ils étaient"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myavegagi", "fra_Latn": "j'étais"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "ovegagi", "fra_Latn": "tu étais"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "avegagi", "fra_Latn": "il était"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwavegagi", "fra_Latn": "nous étions"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwavegagi", "fra_Latn": "vous étiez"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wavegagi", "fra_Latn": "ils étaient"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mi be duo", "fra_Latn": "je serai"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o be duo", "fra_Latn": "tu seras"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "e be duo", "fra_Latn": "il sera"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwe be duo", "fra_Latn": "nous serons"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwe be duo", "fra_Latn": "vous serez"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi be duo", "fra_Latn": "ils seront"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "m'be duo", "fra_Latn": "je ne serai pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o'be duo", "fra_Latn": "tu ne seras pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "e'be duo", "fra_Latn": "il ne sera pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwe'be duo", "fra_Latn": "nous ne serons pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwe'be duo", "fra_Latn": "vous ne serez pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi'be duo", "fra_Latn": "ils ne seront pas"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mi to duo", "fra_Latn": "si je suis"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "o to duo", "fra_Latn": "si tu es"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "e to duo", "fra_Latn": "s'il est"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "azwe to duo", "fra_Latn": "si nous sommes"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "anwe to duo", "fra_Latn": "si vous êtes"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi to duo", "fra_Latn": "s'ils sont"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "sovvuma", "fra_Latn": "se baigner"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "adyon'oku'weme", "fra_Latn": "il s'est tué"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mife kenda", "fra_Latn": "je repars"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "no tiga", "fra_Latn": "cesse d'abord"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "no tigare", "fra_Latn": "attends un peu"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "no na", "fra_Latn": "mange d'abord"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "no nare", "fra_Latn": "mange d'abord"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "dyeno", "fra_Latn": "être vu"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "bolawola", "fra_Latn": "battre souvent"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "bolawolo", "fra_Latn": "être battu souvent"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myayeni", "fra_Latn": "j'ai vu"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myayeno", "fra_Latn": "j'ai été vu"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi ga veye", "fra_Latn": "qu'ils appellent"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "wi ga veyo", "fra_Latn": "qu'ils soient appelés"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "pyagaga", "fra_Latn": "brûler continuellement"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "denalena", "fra_Latn": "pleurer continuellement"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "dena", "fra_Latn": "pleurer"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "todawora", "fra_Latn": "insulter beaucoup"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "towa", "fra_Latn": "insulter"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "denalenaga", "fra_Latn": "pleurer constamment"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "nungwana", "fra_Latn": "s'entr'aider"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "myagana", "fra_Latn": "se connaître"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mya", "fra_Latn": "connaître"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "tendina oma", "fra_Latn": "écrire à quelqu'un"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "tenda", "fra_Latn": "écrire"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "bendina oma", "fra_Latn": "se fâcher contre quelqu'un"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "benda", "fra_Latn": "se fâcher"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "byena oma", "fra_Latn": "venir à quelqu'un"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "bya", "fra_Latn": "venir"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "abendino", "fra_Latn": "on s'est fâché contre lui"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "dyogino", "fra_Latn": "obéir"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "dyogo", "fra_Latn": "entendre"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "tonday", "fra_Latn": "faire aimer"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "poswa", "fra_Latn": "tomber"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "posunya", "fra_Latn": "faire tomber"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "dyandjiza", "fra_Latn": "faire travailler"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "dyandja", "fra_Latn": "travailler"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "byeza", "fra_Latn": "faire venir"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "para", "fra_Latn": "porter dans les mains"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "taluna", "fra_Latn": "retirer, déblayer"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "talya", "fra_Latn": "superposer, remblayer"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "mèna", "fra_Latn": "avaler"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "nana", "fra_Latn": "dormir"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "na", "fra_Latn": "manger"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "bena", "fra_Latn": "planter"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "denda", "fra_Latn": "faire"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "feya", "fra_Latn": "appeler"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "kenda", "fra_Latn": "aller"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "saza", "fra_Latn": "effacer"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "tanga", "fra_Latn": "compter"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "baga", "fra_Latn": "apporter"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "waga", "fra_Latn": "apporte"}, "source": "grammar_verb"}
+{"translation": {"mpo_Latn": "oga", "fra_Latn": "le chef"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "aga", "fra_Latn": "les chefs"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "othwana", "fra_Latn": "l'enfant"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "athwana", "fra_Latn": "les enfants"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "obo", "fra_Latn": "la barre de chaleur"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ibo", "fra_Latn": "les barres de chaleur"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ovono", "fra_Latn": "la ruse"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "avono", "fra_Latn": "les ruses"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ote", "fra_Latn": "la latte de raphia"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ite", "fra_Latn": "les lattes de raphia"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "nte", "fra_Latn": "la terre"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "inte", "fra_Latn": "les terres"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "iba", "fra_Latn": "la mangue"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "aba", "fra_Latn": "les mangues"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "eza", "fra_Latn": "la chose"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ya", "fra_Latn": "les choses"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "mpoo", "fra_Latn": "le chemin"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "impo", "fra_Latn": "les chemins"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ohoro", "fra_Latn": "la bague"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ihoro", "fra_Latn": "les bagues"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ndjali", "fra_Latn": "le fusil"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "intjali", "fra_Latn": "les fusils"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "nango", "fra_Latn": "le remède"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "iango", "fra_Latn": "les remèdes"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "osaka", "fra_Latn": "l'esclave"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "asaka", "fra_Latn": "les esclaves"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "onero", "fra_Latn": "le vieillard"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "anero", "fra_Latn": "les vieillards"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "egara", "fra_Latn": "la caisse"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "agara", "fra_Latn": "les caisses"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ngo", "fra_Latn": "l'habit"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ingo", "fra_Latn": "les habits"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ehenoo", "fra_Latn": "la vie"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ahenoo", "fra_Latn": "les vies"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ogumba", "fra_Latn": "le manioc"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "agumba", "fra_Latn": "les maniocs"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "nago", "fra_Latn": "la case"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "agano", "fra_Latn": "les cases"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "otega", "fra_Latn": "la barrique"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "itega", "fra_Latn": "les barriques"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "igwera", "fra_Latn": "l'heure"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "agwera", "fra_Latn": "les heures"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ogwera", "fra_Latn": "la nuit"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "agwera", "fra_Latn": "les nuits"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ntegu", "fra_Latn": "le jour"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "itegu", "fra_Latn": "les jours"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "mbute", "fra_Latn": "la bouteille"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "ibute", "fra_Latn": "les bouteilles"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "nare", "fra_Latn": "le bœuf"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "agare", "fra_Latn": "les bœufs"}, "source": "grammar_noun"}
+{"translation": {"mpo_Latn": "oga wani", "fra_Latn": "mon chef"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "oga wo", "fra_Latn": "ton chef"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "oga we", "fra_Latn": "son chef"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "oga wazo", "fra_Latn": "notre chef"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "oga wani", "fra_Latn": "votre chef"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "oga wao", "fra_Latn": "leur chef"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aga wani", "fra_Latn": "mes chefs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aga wo", "fra_Latn": "tes chefs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aga we", "fra_Latn": "ses chefs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aga wazo", "fra_Latn": "nos chefs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aga wani", "fra_Latn": "vos chefs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aga wao", "fra_Latn": "leurs chefs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "othwana wani", "fra_Latn": "mon enfant"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "othwana wo", "fra_Latn": "ton enfant"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "othwana we", "fra_Latn": "son enfant"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "othwana wazo", "fra_Latn": "notre enfant"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "othwana wani", "fra_Latn": "votre enfant"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "othwana wao", "fra_Latn": "leur enfant"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "athwana wani", "fra_Latn": "mes enfants"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "athwana wo", "fra_Latn": "tes enfants"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "athwana we", "fra_Latn": "ses enfants"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "athwana wazo", "fra_Latn": "nos enfants"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "athwana wani", "fra_Latn": "vos enfants"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "athwana wao", "fra_Latn": "leurs enfants"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "obo wani", "fra_Latn": "ma barre de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "obo wo", "fra_Latn": "ta barre de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "obo we", "fra_Latn": "sa barre de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "obo wazo", "fra_Latn": "notre barre de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "obo wani", "fra_Latn": "votre barre de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "obo wao", "fra_Latn": "leur barre de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibo yani", "fra_Latn": "mes barres de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibo yo", "fra_Latn": "tes barres de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibo ye", "fra_Latn": "ses barres de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibo yazo", "fra_Latn": "nos barres de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibo yani", "fra_Latn": "vos barres de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibo yao", "fra_Latn": "leurs barres de chaleur"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ovono wani", "fra_Latn": "ma ruse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ovono wo", "fra_Latn": "ta ruse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ovono we", "fra_Latn": "sa ruse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ovono wazo", "fra_Latn": "notre ruse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ovono wani", "fra_Latn": "votre ruse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ovono wao", "fra_Latn": "leur ruse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "avono mani", "fra_Latn": "mes ruses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "avono mo", "fra_Latn": "tes ruses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "avono me", "fra_Latn": "ses ruses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "avono mazo", "fra_Latn": "nos ruses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "avono mani", "fra_Latn": "vos ruses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "avono mao", "fra_Latn": "leurs ruses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ote wani", "fra_Latn": "ma latte de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ote wo", "fra_Latn": "ta latte de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ote we", "fra_Latn": "sa latte de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ote wazo", "fra_Latn": "notre latte de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ote wani", "fra_Latn": "votre latte de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ote wao", "fra_Latn": "leur latte de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ite sani", "fra_Latn": "mes lattes de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ite so", "fra_Latn": "tes lattes de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ite se", "fra_Latn": "ses lattes de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ite sazo", "fra_Latn": "nos lattes de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ite sani", "fra_Latn": "vos lattes de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ite sao", "fra_Latn": "leurs lattes de raphia"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nte yani", "fra_Latn": "ma terre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nte yo", "fra_Latn": "ta terre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nte ye", "fra_Latn": "sa terre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nte yazo", "fra_Latn": "notre terre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nte yani", "fra_Latn": "votre terre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nte yao", "fra_Latn": "leur terre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inte sani", "fra_Latn": "mes terres"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inte so", "fra_Latn": "tes terres"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inte se", "fra_Latn": "ses terres"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inte sazo", "fra_Latn": "nos terres"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inte sani", "fra_Latn": "vos terres"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inte sao", "fra_Latn": "leurs terres"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iba pani", "fra_Latn": "ma mangue"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iba go", "fra_Latn": "ta mangue"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iba pe", "fra_Latn": "sa mangue"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iba pazo", "fra_Latn": "notre mangue"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iba pani", "fra_Latn": "votre mangue"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iba pao", "fra_Latn": "leur mangue"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aba mani", "fra_Latn": "mes mangues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aba mo", "fra_Latn": "tes mangues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aba me", "fra_Latn": "ses mangues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aba mazo", "fra_Latn": "nos mangues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aba mani", "fra_Latn": "vos mangues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "aba mao", "fra_Latn": "leurs mangues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "eza zani", "fra_Latn": "ma chose"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "eza zo", "fra_Latn": "ta chose"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "eza ze", "fra_Latn": "sa chose"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "eza zazo", "fra_Latn": "notre chose"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "eza zani", "fra_Latn": "votre chose"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "eza zao", "fra_Latn": "leur chose"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ya yani", "fra_Latn": "mes choses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ya yo", "fra_Latn": "tes choses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ya ye", "fra_Latn": "ses choses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ya yazo", "fra_Latn": "nos choses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ya yani", "fra_Latn": "vos choses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ya yao", "fra_Latn": "leurs choses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mpoo wani", "fra_Latn": "mon chemin"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mpoo wo", "fra_Latn": "ton chemin"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mpoo we", "fra_Latn": "son chemin"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mpoo wazo", "fra_Latn": "notre chemin"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mpoo wani", "fra_Latn": "votre chemin"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mpoo wao", "fra_Latn": "leur chemin"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "impo sani", "fra_Latn": "mes chemins"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "impo so", "fra_Latn": "tes chemins"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "impo se", "fra_Latn": "ses chemins"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "impo sazo", "fra_Latn": "nos chemins"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "impo sani", "fra_Latn": "vos chemins"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "impo sao", "fra_Latn": "leurs chemins"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ohoro wani", "fra_Latn": "ma bague"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ohoro wo", "fra_Latn": "ta bague"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ohoro we", "fra_Latn": "sa bague"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ohoro wazo", "fra_Latn": "notre bague"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ohoro wani", "fra_Latn": "votre bague"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ohoro wao", "fra_Latn": "leur bague"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ihoro yani", "fra_Latn": "mes bagues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ihoro yo", "fra_Latn": "tes bagues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ihoro ye", "fra_Latn": "ses bagues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ihoro yazo", "fra_Latn": "nos bagues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ihoro yani", "fra_Latn": "vos bagues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ihoro yao", "fra_Latn": "leurs bagues"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ndjali yani", "fra_Latn": "mon fusil"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ndjali yo", "fra_Latn": "ton fusil"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ndjali ye", "fra_Latn": "son fusil"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ndjali yazo", "fra_Latn": "notre fusil"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ndjali yani", "fra_Latn": "votre fusil"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ndjali yao", "fra_Latn": "leur fusil"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "intjali sani", "fra_Latn": "mes fusils"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "intjali so", "fra_Latn": "tes fusils"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "intjali se", "fra_Latn": "ses fusils"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "intjali sazo", "fra_Latn": "nos fusils"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "intjali sani", "fra_Latn": "vos fusils"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "intjali sao", "fra_Latn": "leurs fusils"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nango zani", "fra_Latn": "mon remède"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nango zo", "fra_Latn": "ton remède"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nango ze", "fra_Latn": "son remède"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nango zazo", "fra_Latn": "notre remède"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nango zani", "fra_Latn": "votre remède"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nango zao", "fra_Latn": "leur remède"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iango yani", "fra_Latn": "mes remèdes"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iango yo", "fra_Latn": "tes remèdes"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iango ye", "fra_Latn": "ses remèdes"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iango yazo", "fra_Latn": "nos remèdes"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iango yani", "fra_Latn": "vos remèdes"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "iango yao", "fra_Latn": "leurs remèdes"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "osaka wani", "fra_Latn": "mon esclave"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "osaka wo", "fra_Latn": "ton esclave"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "osaka we", "fra_Latn": "son esclave"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "osaka wazo", "fra_Latn": "notre esclave"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "osaka wani", "fra_Latn": "votre esclave"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "osaka wao", "fra_Latn": "leur esclave"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "asaka wani", "fra_Latn": "mes esclaves"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "asaka wo", "fra_Latn": "tes esclaves"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "asaka we", "fra_Latn": "ses esclaves"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "asaka wazo", "fra_Latn": "nos esclaves"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "asaka wani", "fra_Latn": "vos esclaves"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "asaka wao", "fra_Latn": "leurs esclaves"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "onero wani", "fra_Latn": "mon vieillard"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "onero wo", "fra_Latn": "ton vieillard"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "onero we", "fra_Latn": "son vieillard"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "onero wazo", "fra_Latn": "notre vieillard"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "onero wani", "fra_Latn": "votre vieillard"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "onero wao", "fra_Latn": "leur vieillard"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "anero wani", "fra_Latn": "mes vieillards"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "anero wo", "fra_Latn": "tes vieillards"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "anero we", "fra_Latn": "ses vieillards"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "anero wazo", "fra_Latn": "nos vieillards"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "anero wani", "fra_Latn": "vos vieillards"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "anero wao", "fra_Latn": "leurs vieillards"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "egara zani", "fra_Latn": "ma caisse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "egara zo", "fra_Latn": "ta caisse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "egara ze", "fra_Latn": "sa caisse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "egara zazo", "fra_Latn": "notre caisse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "egara zani", "fra_Latn": "votre caisse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "egara zao", "fra_Latn": "leur caisse"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agara yani", "fra_Latn": "mes caisses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agara yo", "fra_Latn": "tes caisses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agara ye", "fra_Latn": "ses caisses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agara yazo", "fra_Latn": "nos caisses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agara yani", "fra_Latn": "vos caisses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agara yao", "fra_Latn": "leurs caisses"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ngo zani", "fra_Latn": "mon habit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ngo zo", "fra_Latn": "ton habit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ngo ze", "fra_Latn": "son habit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ngo zazo", "fra_Latn": "notre habit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ngo zani", "fra_Latn": "votre habit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ngo zao", "fra_Latn": "leur habit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ingo yani", "fra_Latn": "mes habits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ingo yo", "fra_Latn": "tes habits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ingo ye", "fra_Latn": "ses habits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ingo yazo", "fra_Latn": "nos habits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ingo yani", "fra_Latn": "vos habits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ingo yao", "fra_Latn": "leurs habits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ehenoo zani", "fra_Latn": "ma vie"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ehenoo zo", "fra_Latn": "ta vie"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ehenoo ze", "fra_Latn": "sa vie"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ehenoo zazo", "fra_Latn": "notre vie"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ehenoo zani", "fra_Latn": "votre vie"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ehenoo zao", "fra_Latn": "leur vie"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ahenoo yani", "fra_Latn": "mes vies"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ahenoo yo", "fra_Latn": "tes vies"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ahenoo ye", "fra_Latn": "ses vies"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ahenoo yazo", "fra_Latn": "nos vies"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ahenoo yani", "fra_Latn": "vos vies"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ahenoo yao", "fra_Latn": "leurs vies"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogumba wani", "fra_Latn": "mon manioc"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogumba wo", "fra_Latn": "ton manioc"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogumba we", "fra_Latn": "son manioc"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogumba wazo", "fra_Latn": "notre manioc"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogumba wani", "fra_Latn": "votre manioc"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogumba wao", "fra_Latn": "leur manioc"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agumba wani", "fra_Latn": "mes maniocs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agumba wo", "fra_Latn": "tes maniocs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agumba we", "fra_Latn": "ses maniocs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agumba wazo", "fra_Latn": "nos maniocs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agumba wani", "fra_Latn": "vos maniocs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agumba wao", "fra_Latn": "leurs maniocs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nago wani", "fra_Latn": "ma case"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nago wo", "fra_Latn": "ta case"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nago we", "fra_Latn": "sa case"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nago wazo", "fra_Latn": "notre case"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nago wani", "fra_Latn": "votre case"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nago wao", "fra_Latn": "leur case"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agano wani", "fra_Latn": "mes cases"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agano wo", "fra_Latn": "tes cases"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agano we", "fra_Latn": "ses cases"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agano wazo", "fra_Latn": "nos cases"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agano wani", "fra_Latn": "vos cases"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agano wao", "fra_Latn": "leurs cases"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "otega wani", "fra_Latn": "ma barrique"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "otega wo", "fra_Latn": "ta barrique"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "otega we", "fra_Latn": "sa barrique"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "otega wazo", "fra_Latn": "notre barrique"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "otega wani", "fra_Latn": "votre barrique"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "otega wao", "fra_Latn": "leur barrique"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itega sani", "fra_Latn": "mes barriques"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itega so", "fra_Latn": "tes barriques"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itega se", "fra_Latn": "ses barriques"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itega sazo", "fra_Latn": "nos barriques"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itega sani", "fra_Latn": "vos barriques"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itega sao", "fra_Latn": "leurs barriques"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "igwera pani", "fra_Latn": "ma heure"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "igwera go", "fra_Latn": "ta heure"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "igwera pe", "fra_Latn": "sa heure"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "igwera pazo", "fra_Latn": "notre heure"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "igwera pani", "fra_Latn": "votre heure"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "igwera pao", "fra_Latn": "leur heure"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mani", "fra_Latn": "mes heures"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mo", "fra_Latn": "tes heures"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera me", "fra_Latn": "ses heures"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mazo", "fra_Latn": "nos heures"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mani", "fra_Latn": "vos heures"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mao", "fra_Latn": "leurs heures"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogwera wani", "fra_Latn": "ma nuit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogwera wo", "fra_Latn": "ta nuit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogwera we", "fra_Latn": "sa nuit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogwera wazo", "fra_Latn": "notre nuit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogwera wani", "fra_Latn": "votre nuit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ogwera wao", "fra_Latn": "leur nuit"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mani", "fra_Latn": "mes nuits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mo", "fra_Latn": "tes nuits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera me", "fra_Latn": "ses nuits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mazo", "fra_Latn": "nos nuits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mani", "fra_Latn": "vos nuits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agwera mao", "fra_Latn": "leurs nuits"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ntegu yani", "fra_Latn": "mon jour"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ntegu yo", "fra_Latn": "ton jour"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ntegu ye", "fra_Latn": "son jour"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ntegu yazo", "fra_Latn": "notre jour"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ntegu yani", "fra_Latn": "votre jour"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ntegu yao", "fra_Latn": "leur jour"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itegu sani", "fra_Latn": "mes jours"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itegu so", "fra_Latn": "tes jours"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itegu se", "fra_Latn": "ses jours"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itegu sazo", "fra_Latn": "nos jours"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itegu sani", "fra_Latn": "vos jours"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "itegu sao", "fra_Latn": "leurs jours"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mbute yani", "fra_Latn": "ma bouteille"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mbute yo", "fra_Latn": "ta bouteille"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mbute ye", "fra_Latn": "sa bouteille"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mbute yazo", "fra_Latn": "notre bouteille"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mbute yani", "fra_Latn": "votre bouteille"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "mbute yao", "fra_Latn": "leur bouteille"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibute sani", "fra_Latn": "mes bouteilles"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibute so", "fra_Latn": "tes bouteilles"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibute se", "fra_Latn": "ses bouteilles"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibute sazo", "fra_Latn": "nos bouteilles"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibute sani", "fra_Latn": "vos bouteilles"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ibute sao", "fra_Latn": "leurs bouteilles"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "sika yani", "fra_Latn": "mon argent"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "sika yo", "fra_Latn": "ton argent"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "sika ye", "fra_Latn": "son argent"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "sika yazo", "fra_Latn": "notre argent"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "sika yani", "fra_Latn": "votre argent"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "sika yao", "fra_Latn": "leur argent"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "kyapu zani", "fra_Latn": "ma capsule"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "kyapu zo", "fra_Latn": "ta capsule"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "kyapu ze", "fra_Latn": "sa capsule"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "kyapu zazo", "fra_Latn": "notre capsule"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "kyapu zani", "fra_Latn": "votre capsule"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "kyapu zao", "fra_Latn": "leur capsule"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ife yani", "fra_Latn": "ma fièvre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ife yo", "fra_Latn": "ta fièvre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ife ye", "fra_Latn": "sa fièvre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ife yazo", "fra_Latn": "notre fièvre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ife yani", "fra_Latn": "votre fièvre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "ife yao", "fra_Latn": "leur fièvre"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nare wani", "fra_Latn": "mon bœuf"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nare wo", "fra_Latn": "ton bœuf"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nare we", "fra_Latn": "son bœuf"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nare wazo", "fra_Latn": "notre bœuf"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nare wani", "fra_Latn": "votre bœuf"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "nare wao", "fra_Latn": "leur bœuf"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agare wani", "fra_Latn": "mes bœufs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agare wo", "fra_Latn": "tes bœufs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agare we", "fra_Latn": "ses bœufs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agare wazo", "fra_Latn": "nos bœufs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agare wani", "fra_Latn": "vos bœufs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "agare wao", "fra_Latn": "leurs bœufs"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inigo wani", "fra_Latn": "ma eau"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inigo wo", "fra_Latn": "ta eau"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inigo we", "fra_Latn": "sa eau"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inigo wazo", "fra_Latn": "notre eau"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inigo wani", "fra_Latn": "votre eau"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "inigo wao", "fra_Latn": "leur eau"}, "source": "grammar_possessive"}
+{"translation": {"mpo_Latn": "awani aga", "fra_Latn": "deux chefs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro aga", "fra_Latn": "trois chefs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai aga", "fra_Latn": "quatre chefs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani aga", "fra_Latn": "cinq chefs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori oga", "fra_Latn": "un chef"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "awani athwana", "fra_Latn": "deux enfants"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro athwana", "fra_Latn": "trois enfants"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai athwana", "fra_Latn": "quatre enfants"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani athwana", "fra_Latn": "cinq enfants"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori othwana", "fra_Latn": "un enfant"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "imbani ibo", "fra_Latn": "deux barres de chaleur"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "iraro ibo", "fra_Latn": "trois barres de chaleur"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "inai ibo", "fra_Latn": "quatre barres de chaleur"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "itani ibo", "fra_Latn": "cinq barres de chaleur"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori obo", "fra_Latn": "une barre de chaleur"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ambani avono", "fra_Latn": "deux ruses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro avono", "fra_Latn": "trois ruses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai avono", "fra_Latn": "quatre ruses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani avono", "fra_Latn": "cinq ruses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori ovono", "fra_Latn": "une ruse"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "bani ite", "fra_Latn": "deux lattes de raphia"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "taro ite", "fra_Latn": "trois lattes de raphia"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai ite", "fra_Latn": "quatre lattes de raphia"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "tani ite", "fra_Latn": "cinq lattes de raphia"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori ote", "fra_Latn": "une latte de raphia"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mbani inte", "fra_Latn": "deux terres"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ntearo inte", "fra_Latn": "trois terres"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai inte", "fra_Latn": "quatre terres"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nteani inte", "fra_Latn": "cinq terres"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mori nte", "fra_Latn": "une terre"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ambani aba", "fra_Latn": "deux mangues"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro aba", "fra_Latn": "trois mangues"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai aba", "fra_Latn": "quatre mangues"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani aba", "fra_Latn": "cinq mangues"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "imbori iba", "fra_Latn": "une mangue"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "wani ya", "fra_Latn": "deux choses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "raro ya", "fra_Latn": "trois choses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai ya", "fra_Latn": "quatre choses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "tani ya", "fra_Latn": "cinq choses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "enhori eza", "fra_Latn": "une chose"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "bani impo", "fra_Latn": "deux chemins"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "taro impo", "fra_Latn": "trois chemins"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai impo", "fra_Latn": "quatre chemins"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "tani impo", "fra_Latn": "cinq chemins"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori mpoo", "fra_Latn": "un chemin"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "imbani ihoro", "fra_Latn": "deux bagues"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "iraro ihoro", "fra_Latn": "trois bagues"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "inai ihoro", "fra_Latn": "quatre bagues"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "itani ihoro", "fra_Latn": "cinq bagues"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori ohoro", "fra_Latn": "une bague"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mbani intjali", "fra_Latn": "deux fusils"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ntearo intjali", "fra_Latn": "trois fusils"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai intjali", "fra_Latn": "quatre fusils"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nteani intjali", "fra_Latn": "cinq fusils"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mori ndjali", "fra_Latn": "un fusil"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "wani iango", "fra_Latn": "deux remèdes"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "raro iango", "fra_Latn": "trois remèdes"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai iango", "fra_Latn": "quatre remèdes"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "tani iango", "fra_Latn": "cinq remèdes"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "enhori nango", "fra_Latn": "un remède"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "awani asaka", "fra_Latn": "deux esclaves"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro asaka", "fra_Latn": "trois esclaves"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai asaka", "fra_Latn": "quatre esclaves"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani asaka", "fra_Latn": "cinq esclaves"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori osaka", "fra_Latn": "un esclave"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "awani anero", "fra_Latn": "deux vieillards"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro anero", "fra_Latn": "trois vieillards"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai anero", "fra_Latn": "quatre vieillards"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani anero", "fra_Latn": "cinq vieillards"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori onero", "fra_Latn": "un vieillard"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "wani agara", "fra_Latn": "deux caisses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "raro agara", "fra_Latn": "trois caisses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai agara", "fra_Latn": "quatre caisses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "tani agara", "fra_Latn": "cinq caisses"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "enhori egara", "fra_Latn": "une caisse"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "wani ingo", "fra_Latn": "deux habits"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "raro ingo", "fra_Latn": "trois habits"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai ingo", "fra_Latn": "quatre habits"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "tani ingo", "fra_Latn": "cinq habits"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "enhori ngo", "fra_Latn": "un habit"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "wani ahenoo", "fra_Latn": "deux vies"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "raro ahenoo", "fra_Latn": "trois vies"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai ahenoo", "fra_Latn": "quatre vies"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "tani ahenoo", "fra_Latn": "cinq vies"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "enhori ehenoo", "fra_Latn": "une vie"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "awani agumba", "fra_Latn": "deux maniocs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro agumba", "fra_Latn": "trois maniocs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai agumba", "fra_Latn": "quatre maniocs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani agumba", "fra_Latn": "cinq maniocs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori ogumba", "fra_Latn": "un manioc"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "awani agano", "fra_Latn": "deux cases"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro agano", "fra_Latn": "trois cases"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai agano", "fra_Latn": "quatre cases"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani agano", "fra_Latn": "cinq cases"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori nago", "fra_Latn": "une case"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "bani itega", "fra_Latn": "deux barriques"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "taro itega", "fra_Latn": "trois barriques"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai itega", "fra_Latn": "quatre barriques"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "tani itega", "fra_Latn": "cinq barriques"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori otega", "fra_Latn": "une barrique"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ambani agwera", "fra_Latn": "deux heures"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro agwera", "fra_Latn": "trois heures"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai agwera", "fra_Latn": "quatre heures"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani agwera", "fra_Latn": "cinq heures"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "imbori igwera", "fra_Latn": "une heure"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ambani agwera", "fra_Latn": "deux nuits"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro agwera", "fra_Latn": "trois nuits"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai agwera", "fra_Latn": "quatre nuits"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani agwera", "fra_Latn": "cinq nuits"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori ogwera", "fra_Latn": "une nuit"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mbani itegu", "fra_Latn": "deux jours"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ntearo itegu", "fra_Latn": "trois jours"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai itegu", "fra_Latn": "quatre jours"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nteani itegu", "fra_Latn": "cinq jours"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mori ntegu", "fra_Latn": "un jour"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mbani ibute", "fra_Latn": "deux bouteilles"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ntearo ibute", "fra_Latn": "trois bouteilles"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai ibute", "fra_Latn": "quatre bouteilles"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nteani ibute", "fra_Latn": "cinq bouteilles"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mori mbute", "fra_Latn": "une bouteille"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mori sika", "fra_Latn": "un argent"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "enhori kyapu", "fra_Latn": "une capsule"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mori ife", "fra_Latn": "une fièvre"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "awani agare", "fra_Latn": "deux bœufs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "araro agare", "fra_Latn": "trois bœufs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "anai agare", "fra_Latn": "quatre bœufs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "atani agare", "fra_Latn": "cinq bœufs"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori nare", "fra_Latn": "un bœuf"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "othori inigo", "fra_Latn": "une eau"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mori", "fra_Latn": "un"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "mbani", "fra_Latn": "deux"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ntearo", "fra_Latn": "trois"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nai", "fra_Latn": "quatre"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nteani", "fra_Latn": "cinq"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "orona", "fra_Latn": "six"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "orowagenomu", "fra_Latn": "sept"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "enani", "fra_Latn": "huit"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "endoghi", "fra_Latn": "neuf"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "igothi", "fra_Latn": "dix"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "nkama", "fra_Latn": "cent"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "ntozeni", "fra_Latn": "mille"}, "source": "grammar_number"}
+{"translation": {"mpo_Latn": "oga ombya", "fra_Latn": "un bon chef"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "aga awya", "fra_Latn": "des bons chefs"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "othwana ombya", "fra_Latn": "un bon enfant"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "athwana awya", "fra_Latn": "des bons enfants"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "obo ombya", "fra_Latn": "une bonne barre de chaleur"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ibo imbya", "fra_Latn": "des bonnes barres de chaleur"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ovono ombya", "fra_Latn": "une bonne ruse"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "avono ambya", "fra_Latn": "des bonnes ruses"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ote ombya", "fra_Latn": "une bonne latte de raphia"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ite ibya", "fra_Latn": "des bonnes lattes de raphia"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nte mbya", "fra_Latn": "une bonne terre"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "inte imbya", "fra_Latn": "des bonnes terres"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "iba lwya", "fra_Latn": "une bonne mangue"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "aba ambya", "fra_Latn": "des bonnes mangues"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "eza ewya", "fra_Latn": "une bonne chose"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ya wya", "fra_Latn": "des bonnes choses"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "mpoo ombya", "fra_Latn": "un bon chemin"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "impo ibya", "fra_Latn": "des bons chemins"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ohoro ombya", "fra_Latn": "une bonne bague"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ihoro imbya", "fra_Latn": "des bonnes bagues"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ndjali mbya", "fra_Latn": "un bon fusil"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "intjali imbya", "fra_Latn": "des bons fusils"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nango ewya", "fra_Latn": "un bon remède"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "iango wya", "fra_Latn": "des bons remèdes"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "osaka ombya", "fra_Latn": "un bon esclave"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "asaka awya", "fra_Latn": "des bons esclaves"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "onero ombya", "fra_Latn": "un bon vieillard"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "anero awya", "fra_Latn": "des bons vieillards"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "egara ewya", "fra_Latn": "une bonne caisse"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agara wya", "fra_Latn": "des bonnes caisses"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ngo ewya", "fra_Latn": "un bon habit"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ingo wya", "fra_Latn": "des bons habits"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ehenoo ewya", "fra_Latn": "une bonne vie"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ahenoo wya", "fra_Latn": "des bonnes vies"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ogumba ombya", "fra_Latn": "un bon manioc"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agumba awya", "fra_Latn": "des bons maniocs"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nago ombya", "fra_Latn": "une bonne case"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agano awya", "fra_Latn": "des bonnes cases"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "otega ombya", "fra_Latn": "une bonne barrique"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "itega ibya", "fra_Latn": "des bonnes barriques"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "igwera lwya", "fra_Latn": "une bonne heure"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agwera ambya", "fra_Latn": "des bonnes heures"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ogwera ombya", "fra_Latn": "une bonne nuit"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agwera ambya", "fra_Latn": "des bonnes nuits"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ntegu mbya", "fra_Latn": "un bon jour"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "itegu imbya", "fra_Latn": "des bons jours"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "mbute mbya", "fra_Latn": "une bonne bouteille"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ibute imbya", "fra_Latn": "des bonnes bouteilles"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "sika mbya", "fra_Latn": "un bon argent"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "kyapu ewya", "fra_Latn": "une bonne capsule"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ife mbya", "fra_Latn": "une bonne fièvre"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nare ombya", "fra_Latn": "un bon bœuf"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agare awya", "fra_Latn": "des bons bœufs"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "inigo ombya", "fra_Latn": "une bonne eau"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "oga ompolo", "fra_Latn": "un grand chef"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "aga awolo", "fra_Latn": "des grands chefs"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "othwana ompolo", "fra_Latn": "un grand enfant"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "athwana awolo", "fra_Latn": "des grands enfants"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "obo mpolo", "fra_Latn": "une grande barre de chaleur"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ibo impolo", "fra_Latn": "des grandes barres de chaleur"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ovono ivolo", "fra_Latn": "une grande ruse"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "avono ampolo", "fra_Latn": "des grandes ruses"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ote evolo", "fra_Latn": "une grande latte de raphia"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ite ipolo", "fra_Latn": "des grandes lattes de raphia"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nte mpolo", "fra_Latn": "une grande terre"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "inte impolo", "fra_Latn": "des grandes terres"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "iba lwolo", "fra_Latn": "une grande mangue"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "aba ampolo", "fra_Latn": "des grandes mangues"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "eza evolo", "fra_Latn": "une grande chose"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ya volo", "fra_Latn": "des grandes choses"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "mpoo evolo", "fra_Latn": "un grand chemin"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "impo ipolo", "fra_Latn": "des grands chemins"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ohoro mpolo", "fra_Latn": "une grande bague"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ihoro impolo", "fra_Latn": "des grandes bagues"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ndjali mpolo", "fra_Latn": "un grand fusil"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "intjali impolo", "fra_Latn": "des grands fusils"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nango evolo", "fra_Latn": "un grand remède"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "iango volo", "fra_Latn": "des grands remèdes"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "osaka ompolo", "fra_Latn": "un grand esclave"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "asaka awolo", "fra_Latn": "des grands esclaves"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "onero ompolo", "fra_Latn": "un grand vieillard"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "anero awolo", "fra_Latn": "des grands vieillards"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "egara evolo", "fra_Latn": "une grande caisse"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agara volo", "fra_Latn": "des grandes caisses"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ngo evolo", "fra_Latn": "un grand habit"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ingo volo", "fra_Latn": "des grands habits"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ehenoo evolo", "fra_Latn": "une grande vie"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ahenoo volo", "fra_Latn": "des grandes vies"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ogumba ompolo", "fra_Latn": "un grand manioc"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agumba awolo", "fra_Latn": "des grands maniocs"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nago ompolo", "fra_Latn": "une grande case"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agano awolo", "fra_Latn": "des grandes cases"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "otega evolo", "fra_Latn": "une grande barrique"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "itega ipolo", "fra_Latn": "des grandes barriques"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "igwera lwolo", "fra_Latn": "une grande heure"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agwera ampolo", "fra_Latn": "des grandes heures"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ogwera ivolo", "fra_Latn": "une grande nuit"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agwera ampolo", "fra_Latn": "des grandes nuits"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ntegu mpolo", "fra_Latn": "un grand jour"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "itegu impolo", "fra_Latn": "des grands jours"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "mbute mpolo", "fra_Latn": "une grande bouteille"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ibute impolo", "fra_Latn": "des grandes bouteilles"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "sika mpolo", "fra_Latn": "un grand argent"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "kyapu evolo", "fra_Latn": "une grande capsule"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ife mpolo", "fra_Latn": "une grande fièvre"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nare ompolo", "fra_Latn": "un grand bœuf"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agare awolo", "fra_Latn": "des grands bœufs"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "inigo ivolo", "fra_Latn": "une grande eau"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "oga omwango", "fra_Latn": "un petit chef"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "aga awango", "fra_Latn": "des petits chefs"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "othwana omwango", "fra_Latn": "un petit enfant"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "athwana awango", "fra_Latn": "des petits enfants"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "obo nango", "fra_Latn": "une petite barre de chaleur"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ibo imyango", "fra_Latn": "des petites barres de chaleur"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ovono iṇango", "fra_Latn": "une petite ruse"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "avono athango", "fra_Latn": "des petites ruses"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ote ezango", "fra_Latn": "une petite latte de raphia"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ite idyango", "fra_Latn": "des petites lattes de raphia"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nte mpango", "fra_Latn": "une petite terre"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "inte ipango", "fra_Latn": "des petites terres"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "iba liango", "fra_Latn": "une petite mangue"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "aba ahango", "fra_Latn": "des petites mangues"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "eza ezango", "fra_Latn": "une petite chose"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ya yango", "fra_Latn": "des petites choses"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "mpoo ezango", "fra_Latn": "un petit chemin"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "impo idyango", "fra_Latn": "des petits chemins"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ohoro nango", "fra_Latn": "une petite bague"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ihoro imyango", "fra_Latn": "des petites bagues"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ndjali mpango", "fra_Latn": "un petit fusil"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "intjali ipango", "fra_Latn": "des petits fusils"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nango ezango", "fra_Latn": "un petit remède"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "iango yango", "fra_Latn": "des petits remèdes"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "osaka omwango", "fra_Latn": "un petit esclave"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "asaka awango", "fra_Latn": "des petits esclaves"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "onero omwango", "fra_Latn": "un petit vieillard"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "anero awango", "fra_Latn": "des petits vieillards"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "egara ezango", "fra_Latn": "une petite caisse"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agara yango", "fra_Latn": "des petites caisses"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ngo ezango", "fra_Latn": "un petit habit"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ingo yango", "fra_Latn": "des petits habits"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ehenoo ezango", "fra_Latn": "une petite vie"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ahenoo yango", "fra_Latn": "des petites vies"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ogumba omwango", "fra_Latn": "un petit manioc"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agumba awango", "fra_Latn": "des petits maniocs"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nago omwango", "fra_Latn": "une petite case"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agano awango", "fra_Latn": "des petites cases"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "otega ezango", "fra_Latn": "une petite barrique"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "itega idyango", "fra_Latn": "des petites barriques"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "igwera liango", "fra_Latn": "une petite heure"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agwera ahango", "fra_Latn": "des petites heures"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ogwera iṇango", "fra_Latn": "une petite nuit"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agwera athango", "fra_Latn": "des petites nuits"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ntegu mpango", "fra_Latn": "un petit jour"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "itegu ipango", "fra_Latn": "des petits jours"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "mbute mpango", "fra_Latn": "une petite bouteille"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ibute ipango", "fra_Latn": "des petites bouteilles"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "sika mpango", "fra_Latn": "un petit argent"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "kyapu ezango", "fra_Latn": "une petite capsule"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "ife mpango", "fra_Latn": "une petite fièvre"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "nare omwango", "fra_Latn": "un petit bœuf"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "agare awango", "fra_Latn": "des petits bœufs"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "inigo iṇango", "fra_Latn": "une petite eau"}, "source": "grammar_adjective"}
+{"translation": {"mpo_Latn": "othwana", "fra_Latn": "un enfant"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "othwana onothe", "fra_Latn": "un garçon"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "othwana othwanto", "fra_Latn": "une fille"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "nare nome", "fra_Latn": "un taureau"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "nare ganton", "fra_Latn": "une vache"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "oma", "fra_Latn": "quelqu'un, une personne"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mongi", "fra_Latn": "des gens"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "aboswe", "fra_Latn": "ancêtres"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "aninigo", "fra_Latn": "eau"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mpoo ya gare", "fra_Latn": "le chemin du milieu"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "impo sa gare", "fra_Latn": "les chemins du milieu"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ebanda zi nanha", "fra_Latn": "la peau de l'animal"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "banda iyanha", "fra_Latn": "les peaux des animaux"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "oga w'agekaza", "fra_Latn": "le chef des Agékaza"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "aga w'agekaza", "fra_Latn": "les chefs des Agékaza"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ohoro wi sika", "fra_Latn": "une bague en argent"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ndjali yi kyapu", "fra_Latn": "un fusil à capsule"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "nango y'ife", "fra_Latn": "un remède pour la fièvre"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ogara ralye", "fra_Latn": "une caisse pleine"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ngo ya pupu", "fra_Latn": "un habit blanc"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ehenoo za pekepeke", "fra_Latn": "la vie éternelle"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "orerembo ovolo", "fra_Latn": "la grande rivière"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "osakaw'ekale", "fra_Latn": "un esclave orgueilleux"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "asaka wi kale", "fra_Latn": "des esclaves orgueilleux"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "onero w'ipoku", "fra_Latn": "un vieillard aveugle"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "anero w'apoku", "fra_Latn": "des vieillards aveugles"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "aningo mi mpyo", "fra_Latn": "de l'eau chaude"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "imongo s'onigi", "fra_Latn": "des patates douces"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "egara zi re ralye", "fra_Latn": "la caisse est pleine"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "aningo m'atweni mpyo", "fra_Latn": "l'eau est chaude"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "asaroe windé wi re apoku", "fra_Latn": "ces vieillards sont aveugles"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "asaka w'atweni kale", "fra_Latn": "les esclaves sont devenus orgueilleux"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "oga wi mbani", "fra_Latn": "le deuxième roi"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ivanga ya mbani", "fra_Latn": "le deuxième commandement"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ntegu yi ntaro", "fra_Latn": "le troisième jour"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "owaro wo raro", "fra_Latn": "la troisième pirogue"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "otenbo wi naf", "fra_Latn": "le quatrième doigt"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mbwa yi ntani", "fra_Latn": "le cinquième chien"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "othwana wa tani", "fra_Latn": "le cinquième enfant"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "oma wa nai", "fra_Latn": "la quatrième personne"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "erene z'ogumba", "fra_Latn": "la moitié d'un manioc"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mbet yi nago", "fra_Latn": "la moitié d'une case"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "otene w'otega", "fra_Latn": "la moitié d'une barrique"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "erene z'igwera", "fra_Latn": "une demi-heure"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "epele zañi", "fra_Latn": "mon assiette"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "epele zino za mande", "fra_Latn": "À qui est cette assiette"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "izamhi", "fra_Latn": "c'est la mienne"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "og'iwazo", "fra_Latn": "notre chef"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "swak'iyamhi", "fra_Latn": "mon couteau"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ab'imao", "fra_Latn": "leurs mangues"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ogo winó", "fra_Latn": "ce bras"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "wino e dyona", "fra_Latn": "celui-ci rit"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "wono e dena", "fra_Latn": "celui-là pleure"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "yino mpono mbe", "fra_Latn": "ce chemin est mauvais"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi are", "fra_Latn": "je suis"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "azw'are", "fra_Latn": "nous sommes"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "anw'are", "fra_Latn": "vous êtes"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi azele", "fra_Latn": "je ne suis pas"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "myaduo mi kamba", "fra_Latn": "je parlais (autrefois)"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi aluo mi kamba", "fra_Latn": "je parlais (hier)"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "myaduo myakambi", "fra_Latn": "j'avais parlé (autrefois)"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi aluo myakambi", "fra_Latn": "j'avais parlé (hier)"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi be duo mi kamba", "fra_Latn": "je parlerai"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi be duo myakambi", "fra_Latn": "j'aurai parlé"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi duo mi kamba", "fra_Latn": "je ne parlais pas"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi duo myakambi", "fra_Latn": "j'avais pas parlé"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi be duo mi kamba", "fra_Latn": "je ne parlerai pas"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi ato duo", "fra_Latn": "j'aurais été"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "mi to duo", "fra_Latn": "je ne serais pas"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "sovuma", "fra_Latn": "se baigner"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "gamba", "fra_Latn": "parle"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "gambani", "fra_Latn": "parlez"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "agamba", "fra_Latn": "ne parle pas"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "agambani", "fra_Latn": "ne parlez pas"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "nana", "fra_Latn": "dors"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "na", "fra_Latn": "mange"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "bena", "fra_Latn": "plante"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "denda", "fra_Latn": "fais"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "kenda", "fra_Latn": "va"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "saza", "fra_Latn": "efface"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "tanga", "fra_Latn": "compte"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "baga", "fra_Latn": "apporte"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "yogo", "fra_Latn": "viens"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "dyuwa", "fra_Latn": "mourir"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "dwana", "fra_Latn": "rester, demeurer"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "bonga", "fra_Latn": "prendre"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "talya", "fra_Latn": "superposer"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "zoro", "fra_Latn": "soudain, à l'improviste"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "zuguzugu", "fra_Latn": "encombré, bondé"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "zuthine", "fra_Latn": "le crâne a entièrement baissé"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "zunge", "fra_Latn": "fais vite"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "zuzee", "fra_Latn": "étroit, resserré"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "zwere", "fra_Latn": "très froid, glacé"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "zwè", "fra_Latn": "nous"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "vani zwè alasa araro", "fra_Latn": "donnez-nous trois oranges"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "anambye e dyena zwè", "fra_Latn": "Dieu nous voit"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "aranga zwè", "fra_Latn": "ce n'est pas nous"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "aza zwè", "fra_Latn": "sans nous"}, "source": "grammar_rule"}
+{"translation": {"mpo_Latn": "ga n'are zwè", "fra_Latn": "comme nous sommes"}, "source": "grammar_rule"}

@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Large data files
+data/raw/
+data/intermediate/
+data/processed/
+notebooks/
+
+README.md
+
+# Model weights (downloaded from HuggingFace at runtime)
+data/finetune/checkpoints/base/model.safetensors
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+pdfservices-api-credentials.json

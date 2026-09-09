@@ -1,0 +1,2 @@
+Use your OCR ability to read out strictly and exactly the text within the pdf attached (including line breaks and punctuation).
+Do not interpret the text. Do not add any comment or write anything before or after the text.
