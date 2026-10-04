@@ -15,4 +15,6 @@ tqdm
 
 # Evaluation
 evaluate
-unbabel-comet ; extra == "comet"
+# COMET is optional and conflicts with numpy>=2 (needs numpy<2).
+# Install manually only for COMET eval:
+# pip install "unbabel-comet>=2.0.2" "numpy<2"

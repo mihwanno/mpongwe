@@ -14,8 +14,6 @@ src/services/
 src/scripts/
 
 
-README.md
-
 # Model weights (downloaded from HuggingFace at runtime)
 data/finetune/checkpoints/base/model.safetensors
 
