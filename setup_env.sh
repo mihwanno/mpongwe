@@ -24,11 +24,14 @@ fi
 # faiss-cpu / bitsandbytes / torch, and `requires-python = ">=3.12"`
 # makes uv pick the newest version (3.14) unless pinned.
 # `uv venv --python 3.12` auto-downloads 3.12 if missing.
-if uv venv --python 3.12 2>/dev/null; then
+# `--seed` installs pip too: without it `python -m pip` fails with
+# "No module named pip" (uv venvs are pip-less by default), which breaks
+# `src/finetune/run_pipeline.py install_dependencies()`.
+if uv venv --seed --python 3.12 2>/dev/null; then
     echo "Created venv with Python 3.12."
 else
     echo "Python 3.12 not available, using default Python..."
-    uv venv
+    uv venv --seed
 fi
 
 # Pin for future uv commands so it doesn't default back to 3.14

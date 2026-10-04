@@ -32,7 +32,7 @@ Manual fallback (same result, no `uv sync`):
 ```bash
 rm -rf .venv
 uv python install 3.12
-uv venv --python 3.12
+uv venv --seed --python 3.12
 source .venv/bin/activate
 uv pip install -r requirements.txt
 # or: pip install -r requirements.txt
@@ -73,6 +73,41 @@ pip install "unbabel-comet>=2.0.2" "numpy<2"
    - Fix: don't use `uv sync` / don't request the `comet` extra. `setup_env.sh`
      already installs from `requirements.txt`, which excludes COMET.
 
+4. `/path/.venv/bin/python: No module named pip` in `run_pipeline.py`
+   - Cause: venv created with plain `uv venv` (no pip) and/or still on
+     Python 3.14 (see `cpython-3.14.5` in the traceback). `setup_env.sh` now
+     uses `uv venv --seed --python 3.12`; old `.venv` dirs lack pip.
+   - Fix: pull latest, recreate the env, then skip the pipeline's
+     re-install (deps are already installed):
+     ```bash
+     git pull
+     rm -rf .venv
+     chmod +x setup_env.sh && ./setup_env.sh
+     source .venv/bin/activate
+     python --version  # expect 3.12.x
+     python -m pip --version  # must work
+     python src/finetune/run_pipeline.py --skip_install \
+       --epochs 3 --batch_size 8 --eval_steps 500 --save_steps 500 --max_length 256
+     ```
+     `run_pipeline.py` now also prefers `uv pip install` and bootstraps pip
+     via `ensurepip` if missing, so plain `--epochs ...` works too.
+
+5. `FileNotFoundError: data/processed/mpongwe_francais.json` in `prepare_data`
+   - Cause: `data/processed/` is git-ignored, so clones lack the source
+     dictionary (built locally by `src/digitize_raponda/`
+     `make_complete_dictionary.py`, also ignored). The shipped
+     `data/finetune/train|val|test.jsonl` are tracked and sufficient.
+   - Fix: pull latest and re-run — full pipeline auto-skips `prepare_data`
+     when outputs exist; or force-skip explicitly:
+     ```bash
+     git pull
+     ls -lh data/finetune/  # train.jsonl, val.jsonl, test.jsonl must exist
+     python src/finetune/run_pipeline.py --skip_install --skip_prepare \
+       --epochs 3 --batch_size 8 --eval_steps 500 --save_steps 500 --max_length 256
+     # Rebuild only if you have data/processed/:
+     # python src/finetune/prepare_data.py --force
+     ```
+
 ### 3. Verify data exists
 
 Processed training data should already exist:
@@ -90,10 +125,13 @@ If missing, the pipeline will generate it (downloads NLLB-200-distilled-600M and
 
 ### 4. Train with the pipeline (recommended)
 
-Run the full end-to-end QLoRA fine-tuning pipeline (stages: add_token → prepare_data → train → evaluate → inference):
+Run the full end-to-end QLoRA fine-tuning pipeline (stages: add_token → prepare_data → train → evaluate → inference).
+`prepare_data` auto-skips when `data/finetune/train|val|test.jsonl` are already
+shipped and `data/processed/mpongwe_francais.json` is missing (it is
+git-ignored, so fresh clones don't have it):
 
 ```bash
-python src/finetune/run_pipeline.py \
+python src/finetune/run_pipeline.py --skip_install \
   --epochs 3 \
   --batch_size 8 \
   --eval_steps 500 \

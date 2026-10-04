@@ -167,12 +167,35 @@ def write_nllb_format(pairs: list[dict], output_path: Path):
             }}, ensure_ascii=False) + "\n")
 
 
-def main():
+def main(force: bool = False):
     print("=" * 60)
     print("Mpongwe Translation Data Preparation")
     print("=" * 60)
 
-    data = load_dictionary()
+    if (
+        not force
+        and OUTPUT_TRAIN.exists()
+        and OUTPUT_VAL.exists()
+        and OUTPUT_TEST.exists()
+    ):
+        print("train/val/test already exist, skipping rebuild "
+              "(use --force to rebuild):")
+        for p in (OUTPUT_TRAIN, OUTPUT_VAL, OUTPUT_TEST):
+            print(f"  {p}")
+        return
+
+    try:
+        data = load_dictionary()
+    except FileNotFoundError:
+        raise FileNotFoundError(
+            f"Dictionary source not found: {SOURCE_FILE}\n"
+            "data/processed/ is git-ignored and not cloned.\n"
+            "Options:\n"
+            "  1. Use the shipped data/finetune/train|val|test.jsonl and skip "
+            "this stage: run_pipeline.py --only train (or --skip_prepare).\n"
+            "  2. Generate it locally with src/digitize_raponda/"
+            "make_complete_dictionary.py, then copy data/processed/ to Studio."
+        ) from None
     print(f"Loaded {len(data):,} dictionary entries")
 
     sentence_pairs = extract_sentence_pairs(data)
@@ -218,4 +241,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import argparse
+    _p = argparse.ArgumentParser()
+    _p.add_argument("--force", action="store_true",
+                    help="Rebuild even if train/val/test already exist")
+    main(force=_p.parse_args().force)
